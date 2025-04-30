@@ -1,0 +1,3 @@
+/home/vinicius/Documents/VmCastle/build/CMakeFiles/vmcastle.dir
+/home/vinicius/Documents/VmCastle/build/CMakeFiles/edit_cache.dir
+/home/vinicius/Documents/VmCastle/build/CMakeFiles/rebuild_cache.dir

@@ -1,7 +1,7 @@
-/**
- * Shortcuts module implementation.
- * Manages global keyboard shortcuts for the clipboard manager.
- */
+// Copyright (C) 2025 Vinícius (VmCastle)
+// Este arquivo é parte de um software licenciado sob a GPLv3.
+// Consulte o arquivo LICENSE para mais informações.
+
 
  #include "shortcuts.hpp"
  #include "main_window.hpp"

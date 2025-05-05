@@ -1,8 +1,7 @@
-/**
- * TrayIcon class implementation.
- * Manages a small floating window that acts as a system tray icon.
- * Note: GTK4 has removed GtkStatusIcon, so we implement a small floating window instead.
- */
+// Copyright (C) 2025 Vinícius (VmCastle)
+// Este arquivo é parte de um software licenciado sob a GPLv3.
+// Consulte o arquivo LICENSE para mais informações.
+
 
  #include "tray_icon.hpp"
  #include "main_window.hpp"

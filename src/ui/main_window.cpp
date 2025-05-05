@@ -1,7 +1,7 @@
-/**
- * MainWindow class implementation.
- * Manages the main application window UI.
- */
+// Copyright (C) 2025 Vinícius (VmCastle)
+// Este arquivo é parte de um software licenciado sob a GPLv3.
+// Consulte o arquivo LICENSE para mais informações.
+
 
  #include "main_window.hpp"
  #include "../clipboard_manager.hpp"
@@ -48,7 +48,7 @@
  static void main_window_init(MainWindow* window) {
      // Set default size
      gtk_window_set_default_size(GTK_WINDOW(window), 400, 500);
-     gtk_window_set_title(GTK_WINDOW(window), "Clipboard Manager");
+     gtk_window_set_title(GTK_WINDOW(window), "VmCastle");
      gtk_window_set_resizable(GTK_WINDOW(window), TRUE);
      
      // Set window as initially hidden

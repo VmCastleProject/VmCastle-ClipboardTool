@@ -1,7 +1,7 @@
-/**
- * MainWindow class declaration.
- * Manages the main application window UI.
- */
+// Copyright (C) 2025 Vinícius (VmCastle)
+// Este arquivo é parte de um software licenciado sob a GPLv3.
+// Consulte o arquivo LICENSE para mais informações.
+
 
 #ifndef MAIN_WINDOW_HPP
 #define MAIN_WINDOW_HPP

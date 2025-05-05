@@ -1,7 +1,7 @@
-/**
- * Main entry point for the clipboard manager application.
- * Initializes GTK, creates the clipboard manager, and runs the main loop.
- */
+// Copyright (C) 2025 Vinícius (VmCastle)
+// Este arquivo é parte de um software licenciado sob a GPLv3.
+// Consulte o arquivo LICENSE para mais informações.
+
 
  #include <gtk/gtk.h>
  #include <iostream>
@@ -57,11 +57,11 @@
              
              // Create about dialog
              GtkWidget* dialog = gtk_about_dialog_new();
-             gtk_about_dialog_set_program_name(GTK_ABOUT_DIALOG(dialog), "Clipboard Manager");
+             gtk_about_dialog_set_program_name(GTK_ABOUT_DIALOG(dialog), "VmCastle");
              gtk_about_dialog_set_version(GTK_ABOUT_DIALOG(dialog), "1.0");
              gtk_about_dialog_set_copyright(GTK_ABOUT_DIALOG(dialog), "© 2023");
              gtk_about_dialog_set_comments(GTK_ABOUT_DIALOG(dialog), 
-                 "A lightweight clipboard manager for Arch Linux.\n"
+                 "VmCastle clipboard manager, made for Arch Linux.\n"
                  "Uses GTK4 and xclip for clipboard operations.");
              gtk_window_set_transient_for(GTK_WINDOW(dialog), window);
              gtk_window_set_modal(GTK_WINDOW(dialog), TRUE);

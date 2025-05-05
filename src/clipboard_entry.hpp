@@ -1,7 +1,7 @@
-/**
- * ClipboardEntry class declaration.
- * Represents a single clipboard entry with its text content and metadata.
- */
+// Copyright (C) 2025 Vinícius (VmCastle)
+// Este arquivo é parte de um software licenciado sob a GPLv3.
+// Consulte o arquivo LICENSE para mais informações.
+
 
 #ifndef CLIPBOARD_ENTRY_HPP
 #define CLIPBOARD_ENTRY_HPP

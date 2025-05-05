@@ -59,3 +59,10 @@
  ./build/vmcastle
  ```
  Se preferir altere o "install.sh" para adequá-lo a sua S.O ou só rode (se usa ArchLinux)
+
+## Licença
+
+Este projeto está licenciado sob a Licença Pública Geral GNU v3.  
+Consulte o arquivo [LICENSE](./LICENSE) para mais detalhes.
+
+© 2025 Vinícius (VmCastle)

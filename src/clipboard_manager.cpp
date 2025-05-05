@@ -1,8 +1,6 @@
-/**
- * ClipboardManager class implementation.
- * Manages the clipboard entries and provides access to clipboard functionality.
- * Uses xclip for clipboard operations on Arch Linux.
- */
+// Copyright (C) 2025 Vinícius (VmCastle)
+// Este arquivo é parte de um software licenciado sob a GPLv3.
+// Consulte o arquivo LICENSE para mais informações.
 
  #include "clipboard_manager.hpp"
  #include <iostream>

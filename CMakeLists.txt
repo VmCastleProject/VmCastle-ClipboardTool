@@ -1,3 +1,7 @@
+# Copyright (C) 2025 Vinícius (VmCastle)
+# Este arquivo é parte de um software licenciado sob a GPLv3.
+# Consulte o arquivo LICENSE para mais informações.
+
 cmake_minimum_required(VERSION 3.10)
 project(clipboard_manager VERSION 0.1.0 LANGUAGES CXX)
 
